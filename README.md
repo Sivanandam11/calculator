@@ -32,5 +32,3 @@
 * CSS
 * Java Script
 
-## License
-**Copyright @ 2022 Web_Pos_System All Right Reserved By Ishara Maduranga**
